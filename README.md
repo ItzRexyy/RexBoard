@@ -25,7 +25,7 @@ RexBoard is simple and free scoreboard plugin for your minecratf server.
 3. Restart the server
 4. Done :)
 
-##Support Me :)
+## Support Me :)
 [Discord Server](https://discord.gg/XG4ssZ2VRb)
 [Donate Me](https://paypal.com/paypalme/clueforce)
 [Join My Minecraft Server](https://discord.clevernetwork.xyz/)
